@@ -2,12 +2,11 @@
   box-sizing: border-box;
 }
 .dropdown {
-  position: relative;
+  position: absolute;
   margin: 16px;
 }
 
 .menu-button {
-  position: relative;
   display: inline-block;
   padding: 16px;
   background-color: darkgreen;
