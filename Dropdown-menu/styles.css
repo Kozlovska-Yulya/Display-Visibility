@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 .dropdown {
+  position: relative;
   margin: 16px;
 }
 
